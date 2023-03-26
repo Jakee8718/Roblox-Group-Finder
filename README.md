@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/logo.jpg" alt="logo" width="180" height="120">
+    <img src="assets/logo.jpg" alt="logo" width="200" height="120">
   </a>
   
   <h3 align="center">Roblox Group Finder and Checker</h3>
@@ -57,7 +57,7 @@
 
 ## About The Project
 
-<img src="assets/example.jpg" alt="Image of product">
+<img src="assets/example.PNG" alt="Image of product">
 
 It "generates" and checks Roblox Group ID's at the same time for maximum efficiency of getting a ownerless group
 
