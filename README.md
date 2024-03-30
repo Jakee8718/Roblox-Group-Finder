@@ -25,6 +25,8 @@
     <a href="https://discord.gg/qybBqmkcnE">Join the discord</a>
   </p>
 </p>
+
+# Will no longer be updating. You can buy a updated version that is completely revamped and built different. @daddy_m on discord or https://discord.gg/qybBqmkcnE
   🥅 ・Goals
 
 ・ 10 Stars Faster with better update idk
